@@ -1,7 +1,8 @@
 # AMSI-Reaper
 ![reaper](https://github.com/h0ru/AMSI-Reaper/assets/117091833/24861e69-df06-477d-8844-a0d4015ef830)
 ## Overview
-- AMSI-Reaper is a tool developed in both PowerShell and C# (.NET Framework v4.0) designed to bypass the Anti-Malware Scan Interface [(AMSI)](https://learn.microsoft.com/en-us/windows/win32/amsi/antimalware-scan-interface-portal) in Windows. AMSI is a built-in security feature in Windows that allows applications and services to integrate with antimalware products.
+- AMSI-Reaper is a tool developed in both PowerShell and C# (.NET Framework v4.0) designed to bypass the Anti-Malware Scan Interface [(AMSI)](https://learn.microsoft.com/en-us/windows/win32/amsi/antimalware-scan-interface-portal) in Windows.
+- AMSI is a built-in security feature in Windows that allows applications and services to integrate with antimalware products.
 - By default, it provides a layer of protection against potentially malicious scripts and code executed in applications like PowerShell. 
 
 ## Features
