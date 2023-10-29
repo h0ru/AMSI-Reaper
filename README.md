@@ -1,5 +1,9 @@
 # AMSI-Reaper
 ![reaper](https://github.com/h0ru/AMSI-Reaper/assets/117091833/24861e69-df06-477d-8844-a0d4015ef830)
+
+## Disclaimer
+- *__The AMSI-Reaper tool is designed mainly for educational and research purposes. The author is not responsible for any misuse, damage, or legal consequences caused by the use of this tool.__*
+
 ## Overview
 - AMSI-Reaper is a tool developed in both PowerShell and C# (.NET Framework v4.0) designed to bypass the Anti-Malware Scan Interface [(AMSI)](https://learn.microsoft.com/en-us/windows/win32/amsi/antimalware-scan-interface-portal) in Windows.
 - AMSI is a built-in security feature in Windows that allows applications and services to integrate with antimalware products.
@@ -32,9 +36,6 @@ iwr https://raw.githubusercontent.com/h0ru/AMSI-Reaper/main/src/AMSI-Reaper.cs -
 ```
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe AMSI-Reaper.cs
 ```
-## Disclaimer
-- *__The AMSI-Reaper tool is meant for educational and research purposes only. The author is not responsible for any misuse, damage, or legal consequences caused by the use of this tool.__*
-
 ## Images
 - *Invoke-Mimikatz is detected and blocked by AMSI*
 ![image1](https://github.com/h0ru/AMSI-Reaper/assets/117091833/6dba8127-9fec-41ec-ba8d-f70d01678dea)
