@@ -11,7 +11,6 @@
 - Check out more on the [`YouTube Video`](https://youtu.be/rNGQpjJ2rXg?feature=shared)
 
 ## Usage 🛠️
-- AMSI-Reaper requires __Administrator privileges__ to function correctly. Please run the tool as an Administrator.
 ### 1️⃣ PowerShell Version
 - __Download__
 ```powershell
