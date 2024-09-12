@@ -1,3 +1,9 @@
+[![Author](https://img.shields.io/badge/Author-h0ru-darkred)](https://github.com/h0ru)
+![Language](https://img.shields.io/badge/Lang-PowerShell-blue.svg)
+![Language](https://img.shields.io/badge/Lang-CSharp-green.svg)
+[![Github Stars](https://img.shields.io/github/stars/h0ru/AMSI-Reaper)](https://github.com/h0ru/AMSI-Reaper) 
+[![GitHub forks](https://img.shields.io/github/forks/h0ru/AMSI-Reaper)](https://github.comh0ru/AMSI-Reaper)
+
 # AMSI-Reaper
 ![reaper](https://github.com/h0ru/AMSI-Reaper/assets/117091833/24861e69-df06-477d-8844-a0d4015ef830)
 
